@@ -20,12 +20,12 @@ author: Vasileios Vouronikos
 ###############################################
 
 navbar-links:
-  Home: "/pages/Home/index.html"
-  Plugins: "Plugins"
+  Home: "home.html"
+  Plugins: "/pages/plugins/index.html"
   Projects:
-  - Open: "/pages/404.html"
-  - Closed: "Closed"
-  About: "About"
+  - Open: "/pages/open_projects/index.html"
+  - Closed: "/pages/closed_projects/index.html"
+  About: "/pages/about/index.html"
   
   
 
