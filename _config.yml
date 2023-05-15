@@ -23,7 +23,7 @@ navbar-links:
   Home: "Home"
   Plugins: "Plugins"
   Projects:
-  - Open: "Open"
+  - Open: "/pages/404.html"
   - Closed: "Closed"
   About: "About"
   
