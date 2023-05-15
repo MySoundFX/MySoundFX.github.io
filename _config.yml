@@ -22,9 +22,9 @@ author: Vasileios Vouronikos
 navbar-links:
   Home: "Home"
   Plugins: "Plugins"
-  Projects: "Projects"
-    - Open: "Open"
-    - Closed: "Closed"
+  Projects:
+  - Open: "Open"
+  - Closed: "Closed"
   About: "About"
   
   
