@@ -20,7 +20,7 @@ author: Vasileios Vouronikos
 ###############################################
 
 navbar-links:
-  Home: "/pages/home/home.html"
+  Home: "/pages/home.html"
   Plugins: "/pages/plugins/index.html"
   Projects:
   - Open: "/pages/open_projects/index.html"
