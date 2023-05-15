@@ -21,11 +21,11 @@ author: Vasileios Vouronikos
 
 navbar-links:
   Home: "/pages/home.html"
-  Plugins: "/pages/plugins/index.html"
+  Plugins: "/pages/plugins.html"
   Projects:
-  - Open: "/pages/open_projects/index.html"
-  - Closed: "/pages/closed_projects/index.html"
-  About: "/pages/about/index.html"
+  - Open: "/pages/open_projects.html"
+  - Closed: "/pages/closed_projects.html"
+  About: "/pages/about.html"
   
   
 
