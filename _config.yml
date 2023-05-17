@@ -130,7 +130,7 @@ navbar-var-length: false
 navbar-col: "#000000"
 navbar-text-col: "#FFFFFF"
 navbar-border-col: "#DDDDDD"
-page-col: "linear-gradient(90deg, rgba(2,0,36,1) 13%, rgba(194,0,222,1) 48%, rgba(0,212,255,1) 98%, rgba(0,212,255,1) 100%)"
+#page-col: "linear-gradient(90deg, rgba(2,0,36,1) 13%, rgba(194,0,222,1) 48%, rgba(0,212,255,1) 98%, rgba(0,212,255,1) 100%)"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
