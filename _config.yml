@@ -130,7 +130,7 @@ navbar-var-length: false
 navbar-col: "#000000"
 navbar-text-col: "#FFFFFF"
 navbar-border-col: "#DDDDDD"
-#page-col: "#424874"
+page-col: "linear-gradient(90deg, rgba(2,0,36,1) 13%, rgba(194,0,222,1) 48%, rgba(0,212,255,1) 98%, rgba(0,212,255,1) 100%)"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
@@ -144,7 +144,7 @@ footer-hover-col: "#0085A1"
 
 #navbar-img: "/assets/img/bgimage.png"
 #footer-img: "/assets/img/bgimage.png"
-page-img: "/assets/img/bg.jpg"
+#page-img: "/assets/img/bg.jpg"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
