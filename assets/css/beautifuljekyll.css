@@ -15,7 +15,8 @@ body {
   font-size: 1.125rem;
   color: {{ site.text-col | default: "#404040" }};
   position: relative;
-  background: linear-gradient(90deg, rgba(2,0,36,1) 13%, rgba(139,0,159,1) 50%, rgba(0,212,255,1) 98%, rgba(0,212,255,1) 100%); 
+  background-color: linear-gradient(90deg, rgba(2,0,36,1) 13%, rgba(139,0,159,1) 50%, rgba(0,212,255,1) 98%, rgba(0,212,255,1) 100%); 
+  {% if site.page-img %}
   background-image: url({{ site.page-img | relative_url }});
   background-attachment: fixed;
   {% endif %}
