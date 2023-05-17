@@ -22,9 +22,8 @@ author: Vasileios Vouronikos
 navbar-links:
   Home: "/pages/home.html"
   Plugins: "/pages/plugins.html"
-  Projects:
-  - Open: "/pages/open_projects.html"
-  - Closed: "/pages/closed_projects.html"
+  Standalone: "/pages/standalone.html"
+  Projects: "/pages/projects.html"
   About: "/pages/about.html"
   
   
